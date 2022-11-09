@@ -1,0 +1,8 @@
+{
+  "name": "Bookers2_ver2",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartkick": "^4.2.0"
+  }
+}
